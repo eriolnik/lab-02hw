@@ -1,4 +1,9 @@
-#include using namespace std;
-
-int main() { cout << "Helloe, world!"; return 0; } 
-
+#include <iostream>
+#include <string>
+ 
+int main(int argc, char** argv){
+ string name;
+ std::cin >> name;
+ std::cout << "Hello world from " << name << std::endl;
+}
+#ewfwf
