@@ -6,3 +6,4 @@ int main(int argc, char** argv){
  std::cin >> name;
  std::cout << "Hello world from " << name << std::endl;
 }
+#ewfwf
